@@ -1,2 +1,4 @@
-# aula-github
- Aprendendo a fazer um repositório
+# Aula Gih e GihtHub
+
+Aprendendo a criar um repositório com as aulas do curso em vídeo
+
